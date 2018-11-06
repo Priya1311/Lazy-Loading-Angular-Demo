@@ -1,6 +1,13 @@
 # CustomerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
+This application has 2 feature modules Customer and Orders. The specific module is loaded on click of the particular tab.
+
+## Setting up
+
+Clone the repo.
+Run `cd customer-app`
+Run `npm install`
 
 ## Development server
 
